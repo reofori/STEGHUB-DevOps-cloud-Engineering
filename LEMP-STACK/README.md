@@ -106,7 +106,7 @@ curl -s http://169.254.169.254/latest/meta-data/public-ipv4
    ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Admin123$';
    ```
 ![Screenshot (107)](https://github.com/highbee2810/STEGHUB-DevOps-cloud-Engineering/assets/155490206/92766b3e-80a9-4c83-a3ea-fce97f2df76f)
-Exit the MySQL shell
+4.**Exit the MySQL shell**:
 ```
 exit
 ```
